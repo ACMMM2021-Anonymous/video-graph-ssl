@@ -55,20 +55,22 @@ Therefore, we further introduce a temporal contrastive graph to leverage such a 
 
 **Action Recognition Results of Linear Probing**
 <div align="center">
-<img src="fig/linear_probe_action.png" width="300px" align=center/>
+<img src="fig/linear_probe_action.png" width="500px" align=center/>
 </div>
+
 
 **Video Retrieval Results on UCF101 and HMDB51 Datasets**
 <div align="center">
-<img src="fig/retrieval_ucf.png" width="200px" align=center/> <img src="fig/retrieval_hmdb.png" width="200px" align=center/>
+<img src="fig/retrieval_ucf.png" width="500px" align=center/> <img src="fig/retrieval_hmdb.png" width="500px" align=center/>
 </div>
+
 
 **More CAM Results**
 <div align="center">
-<img src="fig/cam_1.png" width="250px" align=center/> <img src="fig/cam_2.png" width="250px" align=center/>
+<img src="fig/cam_1.png"  align=center/> <img src="fig/cam_2.png"  align=center/>
 </div>
+**More Retrieval Visualization Results**
 
-**More Retrieval Visulization Results**
 <div align="center">
 <img src="fig/retrie_results.png" />
 </div>
