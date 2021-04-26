@@ -34,7 +34,7 @@ def _create_model(args):
 
     model = VisualModelWrapper(args.video_length, args.modality,
                     backbone_name=args.arch, backbone_type=args.model_type, agg_fun=args.pool_fun, dropout=args.dropout,
-                    pretrained=True, pretrain_path='/home/zhangjingran/2020/proj_1/lib/model_zoo/s3d_kinetics.pth')
+                    pretrained=True, pretrain_path='')
 
     if os.path.exists(args.checkpoint):
         print('load pretrained model from ', args.checkpoint)
